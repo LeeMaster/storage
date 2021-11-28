@@ -1,3 +1,6 @@
+pub mod bits_vec;
+pub mod plain_bloom;
+
 #[cfg(test)]
 mod tests {
     #[test]
